@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most worthy speech spoken by the Right Honourable, and renowned soldier, Lieutenant General Lesley, to the Scottish army, at their marching over Tweed into Scotland, wherein is propounded severall propositions concerning the kingdome of England, and the covenant. Together with the gallant answer of the officers and soldiers in the Scottish army; and their taking of a new oath, and breaking the standards of every regiment, upon their advance into their own kingdome. Appointed to be printed, and published for generall satisfaction of the kingdome of England, Feb. 26.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90048</idno>
+            <idno type="STC">Wing N838</idno>
+            <idno type="STC">Thomason E378_10</idno>
+            <idno type="STC">ESTC R201379</idno>
+            <idno type="EEBO-CITATION">99861900</idno>
+            <idno type="PROQUEST">99861900</idno>
+            <idno type="VID">159968</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90048)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159968)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E378[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most worthy speech spoken by the Right Honourable, and renowned soldier, Lieutenant General Lesley, to the Scottish army, at their marching over Tweed into Scotland, wherein is propounded severall propositions concerning the kingdome of England, and the covenant. Together with the gallant answer of the officers and soldiers in the Scottish army; and their taking of a new oath, and breaking the standards of every regiment, upon their advance into their own kingdome. Appointed to be printed, and published for generall satisfaction of the kingdome of England, Feb. 26.</title>
+                  <author>Newark, David Leslie, Baron, d. 1682.</author>
+                  <author>W. C.</author>
+                  <author>Simpson, F., fl. 1647.</author>
+                  <author>Scotland. Army.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Prinred [sic] for James Douglas.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact Lesley's speech and the Scots army's answer; 2 letters, the first dated and signed: Nottingham, Feb. 19. W.C.; the second dated and signed: Holmby-house, Feb, 22. F. Simpson.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "feb: 26 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newark, David Leslie, --  Baron, d. 1682 --  Early works to 1800.</term>
+               <term>Scotland. --  Army --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159968:1" rendition="simple:additions"/>
+            <p>A moſt worthy SPEECH SPOKEN By the Right Honourable, and renowned Soldier, Lieutenant General LESLEY, to the Scottiſh Army, at their marching over Tweed into Scotland, wherein is propounded ſeverall Propoſitions concerning the Kingdome of England, and the Covenant.</p>
+            <p>Together, with the gallant Anſwer of the Officers and Sol<g ref="char:EOLhyphen"/>diers in the Scottiſh Army; and their taking of a new Oath, and breaking the Standards of every Re<g ref="char:EOLhyphen"/>giment, upon their advance into their own Kingdome.</p>
+            <p>APpointed to be printed, and publiſhed for generall ſatisfaction of the Kingdome of<hi>England,</hi> Feb. 26.</p>
+            <p>LONDON Printed for <hi>James Douglas.</hi> 16<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>7.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:159968:2"/>
+            <pb facs="tcp:159968:2"/>
+            <head>A SPEECH SPOKEN By his Excellency Generall <hi>LEVEN,</hi> to all his Officers and Souldiers, at the diſ<g ref="char:EOLhyphen"/>banding of his Army</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis I ſuppoſe will be the laſt which I ſhall give you of intelligence, in Rela<g ref="char:EOLhyphen"/>tion to Northern affaires; and bleſſed bee God, that hath brought things there to ſo good an iſſue: Our mourning is now tur<g ref="char:EOLhyphen"/>ned
+<pb facs="tcp:159968:3"/>
+to muſick, the voyce of the Turtle is now heard in our Land. God grant we may ſee the things that belongs to our peace in ths our day.</p>
+            <p>Thurſday the 11. inſtant, the Rear of the Scotch Army marched over Tweed at Kel<g ref="char:EOLhyphen"/>ſey and Barwick, and the next day the town of Barwick was quitted, and the Gariſon diſ<g ref="char:EOLhyphen"/>mantled, according to agreement: the ſixe Regiments of their horſe, which were ap<g ref="char:EOLhyphen"/>pointed to disband, had their Rendezvouz at Kelſey, where they were required. 1. To de<g ref="char:EOLhyphen"/>liver up their Armes. 2. To take an oath to this effect: <hi>To offer no injury to the Country in their paſſage to their ſeverall Homes; to bee faithfull to the Covenant and cauſe of both King<g ref="char:EOLhyphen"/>doms, and not to ingage with any againſt them: At firſt, they refuſed; but at laſt were induced to accept of them; partly by the meanes of their Lieut. Gen. David Leſly, and partly by the in<g ref="char:EOLhyphen"/>citements of their Miniſters.</hi>
+            </p>
+            <p>Both of theſe were neceſſary, if we conſi<g ref="char:EOLhyphen"/>der the conſtitution of ſome of thoſe who were disbanded, who reſolved to joyne with Kilketto, being much incenſed at their pro<g ref="char:EOLhyphen"/>ceeding.</p>
+            <p>
+               <pb facs="tcp:159968:3"/>Vpon the taking the Oath, and delivering up their piſtols, they had pay upon the place, ſome one, ſome two, ſome 3 moneths pay, according to the yeares of their ſervice. This done, the Lieut. Gen. very nobly &amp; free<g ref="char:EOLhyphen"/>ly required of them, if they had any thing to ſay of him, or any other of their Officers; they anſwered no: thereupon they broke the Standards of every Regiment, and ſo were all diſpierced towards their ſeverall homes; except thoſe who were ſelected for a New Model, who choſe the beſt piſtols (of thoſe delivered up) for themſelves. Moſt of theſe are of the Arguile party, officers and ſouldi<g ref="char:EOLhyphen"/>ers, yet ſome of them unwilling to continue in arms.</p>
+            <p>The new Model is fourteen hundred Horſe, and five thouſand Foot. The Hamiltonians are much diſcontented at this.</p>
+            <p>
+               <hi>I</hi> might acquaint you with the ſpoyl and plunder they made in Northumberland, and their not paying of quarters from the com<g ref="char:EOLhyphen"/>ming of the firſt 100000. l. till this time; but I had rather theſe and the like complements were buried: there will be diſorders in the beſt governed Bodies, Courts, Camps, City, &amp;
+<pb facs="tcp:159968:4"/>
+Country, none are exempted: the beſt In<g ref="char:EOLhyphen"/>ſtrument is ſomtimes out of tune: Love co<g ref="char:EOLhyphen"/>vereth a multitude of ſins: its the want of that which firſt occaſions the offence; and then in others raiſes ſlanders, whence ariſe all the clamors and ſcandals againſt this Army, but only from want of affections: ſure the army hath deſerved better from them, and might have had better words a yeare ſince, when an Enemy was in the field. <hi>But now the work is done, how are they ſlighted: the generall cry is now for a disbanding; and for my part (&amp;</hi> I <hi>thinke divers others of quality in the Army would be of my mind) it ſhould be the firſt thing I would petition for, ſeeing now it is only ſet up as a marke for every tongue ſet on fire to dart forth their malice againſt, and every Malignant Prieſt, and upstart Levite, to raiſe and write ſlanders, to fill Gangrenaes Volumes. Sir, I have no more at preſent, only I remain,</hi>
+            </p>
+            <closer>
+               <dateline>Nottingham,
+<date>Feb. 19.</date>
+               </dateline>
+               <signed>Your affectionate friend, W. C.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:159968:4"/>
+            <head>The Copy of another Letter from <hi>Holmby,</hi> concerning the proceedings of the Kings Maieſty with the Commiſſioners.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce the coming of the Kings Maieſty to Holmby, there hath been a great diſpute between his Maieſty, and the Eng<g ref="char:EOLhyphen"/>liſh Divines, ſtrong Arguments were held by the King, in defence of the Liturgie and Epiſcopal Government; but many gallant Reaſons were propounded to his Maieſty, (for convincing of his conſcience, and clee<g ref="char:EOLhyphen"/>ring of his Judgment (by that Reverend Di<g ref="char:EOLhyphen"/>vine, Mr. Stephen Marſhal; giving many learned and ſtrong Reaſons in defence of the Government, now eſtabliſhed within the Kingdome of England, by the Authority of both houſes of Parliament: But (as yet) the buſineſſe lyes in diſpence, and his Maieſty hath further declared, that hee cannot give his Royall aſſent, for the confirming and enacting of the Presbyteriall Government; until ſuch time, as he hath conferred with ſome of his own Chaplains, about the ſame, his Conſcience being tender (in every re<g ref="char:EOLhyphen"/>ſpect) for the preſervation of the Proteſtant
+<pb facs="tcp:159968:5"/>
+Religion; And to that end, hath ſent a Meſ<g ref="char:EOLhyphen"/>ſage to the Parliament, to deſire a Confe<g ref="char:EOLhyphen"/>rence with certain Epiſcopal Divines, about ſatisfiing of his Majeſty in ſome ſcruples a<g ref="char:EOLhyphen"/>bout the Presbyterian Government. Divers deep and ſolid queſtions the King hath pro<g ref="char:EOLhyphen"/>pounded to the Divines at Holmby, but (as yet) not ſatisfied by them, about ſome Que<g ref="char:EOLhyphen"/>ries given in by his Majeſty to them.</p>
+            <p>The King continues (ſtill) very pleaſant, being very chearful, merry, and familiar, only he deſires to come to, or neare the City of London. But he hath gallant quarters, and excellent accommodation, there being plenty of proviſions, both for his Maieſty, and his attendants. Sir, no more at preſent, but that <hi>I</hi> ſubſcribe my ſelf,</p>
+            <closer>
+               <signed>Yours, to his power, <hi>F. Simpſon.</hi>
+               </signed>
+               <dateline>Holmby-houſe,
+<date>Feb, 22.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
